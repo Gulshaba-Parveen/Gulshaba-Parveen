@@ -75,7 +75,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com/?user=Gulshaba-Parveen&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gulshaba-Parveen&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 
 </div>
 
