@@ -87,7 +87,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 
 <h2 align="left">⚡Activity Graph:</h2>
-<a href="https://github.com/Gulshaba-Parveen"><img alt="Gulshaba Parveen Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gulshaba-Parveen&theme=react-dark&hide_border=true" /></a>
+<a href="https://github.com/Gulshaba-Parveen"><img alt="Gulshaba-Parveen Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshaba-Parveen&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
 
 
 <br> 
