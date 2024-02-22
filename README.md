@@ -26,7 +26,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 - 💬 Open for your suggestions
  
 - 📄 Download my <a href="https://drive.google.com/file/d/1xdRTMQjChx_5ukW9INO-KLEuFraZR4SR/view?usp=sharing" target="_target">Resume</a>
--  Portfolio <a href="https://gulshaba-parveen.github.io/" target="_blank">Portfolio</a>
+-  My <a href="https://gulshaba-parveen.github.io/" target="_blank">Portfolio</a>
 
 <h2>🥇 Technical Skills:  </h2>  
 
